@@ -1,0 +1,16 @@
+[project]
+name = "submission2"
+version = "0.1.0"
+description = "Implications of Jevons Paradox on Computational Energy Consumption"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "kaleido>=1.0.0",
+    "matplotlib>=3.10.5",
+    "notebook>=7.4.5",
+    "numpy>=2.3.2",
+    "pandas>=2.3.1",
+    "plotly>=6.2.0",
+    "scipy>=1.16.1",
+    "seaborn>=0.13.2",
+]
